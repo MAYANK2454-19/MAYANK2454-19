@@ -28,8 +28,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MAYANK2454-19&label=Profile+Views&color=blue&style=for-the-badge"/>
 </p>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6934720" style='border:none;'></iframe>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Cr1m50nC0r5a1r.png" alt="Your Image Badge" />
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Cr1m50nC0r5a1r.png)](https://tryhackme.com/p/Cr1m50nC0r5a1r)
 <hr/>
 
 ## 🧠 About Me
