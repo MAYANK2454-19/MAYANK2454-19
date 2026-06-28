@@ -624,9 +624,7 @@ Most of my repositories are built with the goal of improving my understanding of
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MAYANK2454-19&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=MAYANK2454-19&theme=radical&no-frame=true&no-bg=true"/>
 </p>
 
 ---
