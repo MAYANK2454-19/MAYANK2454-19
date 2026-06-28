@@ -597,7 +597,7 @@ Most of my repositories are built with the goal of improving my understanding of
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MAYANK2454-19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MAYANK2454-19&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=MAYANK2454-19&theme=tokyonight&hide_border=true/?user=MAYANK2454-19&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -636,8 +636,6 @@ Most of my repositories are built with the goal of improving my understanding of
 <img src="https://raw.githubusercontent.com/MAYANK2454-19/MAYANK2454-19/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
-> **Note:** You'll need to enable a GitHub Action to generate this automatically. We'll set that up after your README is finished.
 
 ---
 
