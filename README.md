@@ -621,10 +621,12 @@ Most of my repositories are built with the goal of improving my understanding of
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Metrics
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MAYANK2454-19&theme=radical&no-frame=true&no-bg=true"/>
+
+<img src="https://raw.githubusercontent.com/MAYANK2454-19/MAYANK2454-19/main/github-metrics.svg"/>
+
 </p>
 
 ---
